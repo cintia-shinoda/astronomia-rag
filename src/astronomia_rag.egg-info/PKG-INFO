@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: astronomia-rag
+Version: 0.1.0
+Summary: Chatbot FAQ de astronomia observacional usando RAG
+Requires-Python: >=3.10
+Requires-Dist: langchain>=0.3.0
+Requires-Dist: langchain-community>=0.3.0
+Requires-Dist: langchain-huggingface>=0.1.0
+Requires-Dist: langchain-ollama>=0.2.0
+Requires-Dist: sentence-transformers>=3.0.0
+Requires-Dist: faiss-cpu>=1.8.0
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: jupyter; extra == "dev"
+Requires-Dist: ipykernel; extra == "dev"
+Requires-Dist: matplotlib; extra == "dev"
