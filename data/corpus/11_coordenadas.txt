@@ -1,0 +1,17 @@
+COORDENADAS CELESTES
+
+Para localizar objetos no céu, os astrônomos usam sistemas de coordenadas, da mesma forma que usamos latitude e longitude para localizar lugares na Terra. O sistema mais utilizado é o de coordenadas equatoriais.
+
+A ideia central é a esfera celeste: imaginamos que todas as estrelas estão projetadas na superfície interna de uma gigantesca esfera que envolve a Terra. Embora as estrelas estejam a distâncias muito diferentes, esse modelo ajuda a descrever suas posições no céu.
+
+No sistema de coordenadas equatoriais, existem duas medidas principais: a ascensão reta e a declinação.
+
+A declinação é semelhante à latitude terrestre. Ela mede o quanto um objeto está ao norte ou ao sul do equador celeste, que é a projeção do equador da Terra no céu. A declinação é medida em graus, de mais 90 no polo norte celeste a menos 90 no polo sul celeste.
+
+A ascensão reta é semelhante à longitude. Ela mede a posição do objeto ao longo do equador celeste, no sentido leste. Em vez de graus, costuma ser expressa em horas, minutos e segundos, dividindo o círculo completo em 24 horas.
+
+Outro sistema útil é o de coordenadas horizontais, baseado no horizonte do observador. Nele, usam-se a altura, que é o ângulo acima do horizonte, e o azimute, que é a direção medida ao longo do horizonte a partir do norte. Esse sistema é intuitivo, mas tem a desvantagem de que as coordenadas de um astro mudam conforme o tempo passa e conforme a localização do observador.
+
+O movimento aparente do céu, em que as estrelas parecem girar ao longo da noite, é causado pela rotação da Terra. Os astros parecem nascer no leste e se pôr no oeste. Próximo aos polos celestes, as estrelas descrevem círculos sem nascer nem se pôr, sendo chamadas de circumpolares.
+
+Conhecer essas coordenadas é essencial para apontar telescópios e para usar mapas celestes e aplicativos de astronomia.

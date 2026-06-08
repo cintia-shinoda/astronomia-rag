@@ -1,0 +1,15 @@
+TELESCÓPIOS
+
+O telescópio é o principal instrumento da astronomia. Sua função é coletar a luz de objetos distantes e formar uma imagem ampliada, permitindo ver detalhes invisíveis a olho nu. Quanto maior a abertura do telescópio, isto é, o diâmetro de sua lente ou espelho principal, mais luz ele capta e mais fracos os objetos que consegue revelar.
+
+Existem três tipos principais de telescópios ópticos. O telescópio refrator usa lentes para coletar e focar a luz. Foi o primeiro tipo inventado e é conhecido pela imagem nítida, mas torna-se caro e pesado em grandes tamanhos. O telescópio refletor usa espelhos em vez de lentes. É mais barato de fabricar em grandes aberturas e é muito usado tanto por amadores quanto por observatórios profissionais. O telescópio catadióptrico combina lentes e espelhos, resultando em instrumentos compactos e versáteis.
+
+Um modelo de refletor bastante popular entre astrônomos amadores é o telescópio dobsoniano, que oferece grande abertura a um custo acessível, montado sobre uma base simples que se move em duas direções.
+
+A montagem é a estrutura que sustenta o telescópio e permite apontá-lo. As montagens altazimutais movem-se na horizontal e na vertical, sendo intuitivas. As montagens equatoriais são alinhadas com o eixo de rotação da Terra, o que facilita acompanhar o movimento dos astros no céu.
+
+As oculares são pequenas lentes responsáveis pela ampliação. Trocando a ocular, muda-se o aumento do telescópio. É um erro comum achar que mais aumento é sempre melhor: aumentos exagerados deixam a imagem escura e borrada. O que mais importa é a abertura.
+
+Para iniciantes, muitos especialistas recomendam começar com um bom binóculo ou um telescópio de abertura moderada e montagem estável, em vez de instrumentos que prometem aumentos altíssimos mas têm óptica de baixa qualidade.
+
+Além dos telescópios ópticos, existem telescópios que captam outros tipos de radiação, como os radiotelescópios e os telescópios espaciais, que observam fora da atmosfera terrestre.

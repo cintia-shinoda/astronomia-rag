@@ -32,3 +32,18 @@ astronomia-rag/
 ```
 
 ## Corpus
+
+
+Rodar a CLI:
+```bash
+python -m astronomia_rag.cli
+```
+
+<!-- - Domínio: Astronomia observacional
+- Embeddings: `sentence-transformers/all-MiniLM-L6-v2` (fixo pelo curso)
+- Vector store: FAISS
+- LLM: Mistral-7B-Instruct Q4_K_M via Ollama
+- Framework: LangChain (bônus)
+- Memória: Histórico de conversa (bônus): `ConversationBufferMemory`
+- Interface: CLI + Jupyter notebook de demo
+- Idioma do corpus: Português -->

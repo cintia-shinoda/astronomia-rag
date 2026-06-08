@@ -1,0 +1,13 @@
+ECLIPSES
+
+Um eclipse é um fenômeno astronômico que ocorre quando um corpo celeste passa pela sombra de outro ou bloqueia a luz que chegaria a um observador. Os dois tipos mais conhecidos são o eclipse solar e o eclipse lunar.
+
+O eclipse solar acontece quando a Lua passa exatamente entre o Sol e a Terra, bloqueando total ou parcialmente a luz solar. Para que isso ocorra, é necessário que seja Lua Nova. Existem diferentes tipos de eclipse solar. No eclipse total, a Lua cobre completamente o disco do Sol, e o dia escurece por alguns minutos, revelando a coroa solar. No eclipse parcial, apenas parte do Sol é encoberta. No eclipse anular, a Lua está mais distante e aparece menor que o Sol, deixando visível um anel brilhante.
+
+É extremamente perigoso olhar diretamente para um eclipse solar sem proteção adequada, pois isso pode causar danos permanentes à visão. Devem-se usar filtros solares específicos, e nunca óculos de sol comuns.
+
+O eclipse lunar ocorre quando a Terra fica entre o Sol e a Lua, projetando sua sombra sobre o satélite. Por isso, só acontece durante a Lua Cheia. No eclipse lunar total, a Lua frequentemente assume uma coloração avermelhada, fenômeno apelidado de Lua de Sangue. Essa cor surge porque a atmosfera terrestre desvia e filtra a luz solar, deixando passar principalmente os tons avermelhados. Diferente do eclipse solar, o eclipse lunar pode ser observado a olho nu com total segurança.
+
+Os eclipses não acontecem todo mês porque a órbita da Lua é levemente inclinada em relação à órbita da Terra ao redor do Sol. Por isso, na maioria das vezes a Lua passa um pouco acima ou abaixo da linha que ligaria perfeitamente os três corpos.
+
+Um eclipse só é visível em determinadas regiões da Terra. Um eclipse solar total, por exemplo, é observável apenas em uma faixa estreita do planeta, chamada faixa de totalidade.

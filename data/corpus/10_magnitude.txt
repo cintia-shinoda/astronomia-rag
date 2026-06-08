@@ -1,0 +1,15 @@
+MAGNITUDE E BRILHO DOS ASTROS
+
+A magnitude é a medida usada em astronomia para indicar o brilho de um astro. O sistema tem uma característica curiosa que confunde iniciantes: quanto menor o número da magnitude, mais brilhante é o objeto. Astros muito brilhantes podem ter magnitude negativa.
+
+Existem dois conceitos importantes: magnitude aparente e magnitude absoluta.
+
+A magnitude aparente indica o brilho de um astro como ele é visto da Terra. Esse brilho depende tanto da quantidade de luz que o objeto realmente emite quanto de sua distância. Por exemplo, o Sol tem magnitude aparente de cerca de menos 27, sendo de longe o objeto mais brilhante do céu. A Lua Cheia tem magnitude aparente em torno de menos 13. A estrela Sirius, a mais brilhante do céu noturno, tem magnitude aparente próxima de menos 1,5.
+
+A olho nu, em um céu escuro e sem poluição luminosa, conseguimos enxergar estrelas até magnitude 6, aproximadamente. Em cidades grandes, com muita iluminação, frequentemente só são visíveis astros de magnitude 3 ou 4, o que reduz bastante a quantidade de estrelas visíveis.
+
+A magnitude absoluta, por sua vez, é uma medida do brilho real, ou luminosidade, de um astro. Ela é definida como a magnitude que o objeto teria se estivesse a uma distância padrão de referência. Usar a magnitude absoluta permite comparar o brilho verdadeiro de estrelas independentemente de quão longe elas estão.
+
+A diferença entre os dois conceitos explica um fenômeno importante: uma estrela que parece fraca no céu pode, na verdade, ser extremamente luminosa, apenas muito distante. Da mesma forma, uma estrela que parece brilhante pode ser relativamente modesta, mas estar próxima.
+
+A escala de magnitude é logarítmica. Isso significa que uma diferença de cinco magnitudes corresponde a uma diferença de cem vezes no brilho. Assim, uma estrela de magnitude 1 é cem vezes mais brilhante que uma estrela de magnitude 6.

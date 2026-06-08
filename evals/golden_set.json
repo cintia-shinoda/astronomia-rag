@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qual é o maior planeta do Sistema Solar?",
+    "expected_source": "01_sistema_solar.txt",
+    "expected_answer": "Júpiter é o maior planeta do Sistema Solar, com massa maior do que a de todos os outros planetas somados."
+  },
+  {
+    "question": "Por que Plutão deixou de ser considerado um planeta?",
+    "expected_source": "01_sistema_solar.txt",
+    "expected_answer": "Em 2006 Plutão foi reclassificado como planeta anão pela União Astronômica Internacional, por não ter limpado a vizinhança de sua órbita."
+  },
+  {
+    "question": "O que causa as fases da Lua?",
+    "expected_source": "02_lua.txt",
+    "expected_answer": "As fases ocorrem porque vemos diferentes porções da face iluminada da Lua conforme ela orbita a Terra. A Lua não emite luz própria, apenas reflete a luz do Sol."
+  },
+  {
+    "question": "Por que sempre vemos a mesma face da Lua?",
+    "expected_source": "02_lua.txt",
+    "expected_answer": "Por causa da rotação sincronizada: a Lua leva o mesmo tempo para girar em torno do próprio eixo e para orbitar a Terra."
+  },
+  {
+    "question": "Quantas constelações são oficialmente reconhecidas?",
+    "expected_source": "03_constelacoes.txt",
+    "expected_answer": "A União Astronômica Internacional reconhece oficialmente 88 constelações."
+  },
+  {
+    "question": "O que são as Três Marias?",
+    "expected_source": "03_constelacoes.txt",
+    "expected_answer": "São as três estrelas alinhadas da constelação de Órion, conhecidas popularmente por esse nome."
+  },
+  {
+    "question": "Qual a relação entre a cor de uma estrela e sua temperatura?",
+    "expected_source": "04_estrelas.txt",
+    "expected_answer": "Estrelas azuis são as mais quentes e estrelas avermelhadas são as mais frias. Estrelas amarelas, como o Sol, têm temperatura intermediária."
+  },
+  {
+    "question": "O que é uma supernova?",
+    "expected_source": "04_estrelas.txt",
+    "expected_answer": "É a explosão espetacular que encerra a vida de estrelas muito mais massivas que o Sol. Pode deixar para trás uma estrela de nêutrons ou um buraco negro."
+  },
+  {
+    "question": "Que tipo de galáxia é a Via Láctea?",
+    "expected_source": "05_galaxias.txt",
+    "expected_answer": "A Via Láctea é uma galáxia espiral, com braços que se enrolam em torno de um centro mais denso."
+  },
+  {
+    "question": "O que é o Grupo Local?",
+    "expected_source": "05_galaxias.txt",
+    "expected_answer": "É o grupo de galáxias do qual a Via Láctea faz parte, que inclui a galáxia de Andrômeda e dezenas de galáxias menores."
+  },
+  {
+    "question": "O que é o horizonte de eventos de um buraco negro?",
+    "expected_source": "06_buracos_negros.txt",
+    "expected_answer": "É a fronteira do buraco negro, o ponto sem retorno: qualquer objeto que o ultrapasse não consegue mais escapar."
+  },
+  {
+    "question": "Qual o nome do buraco negro no centro da Via Láctea?",
+    "expected_source": "06_buracos_negros.txt",
+    "expected_answer": "Sagitário A*, um buraco negro supermassivo localizado no centro da nossa galáxia."
+  },
+  {
+    "question": "Quais são os tipos principais de telescópios ópticos?",
+    "expected_source": "07_telescopios.txt",
+    "expected_answer": "Refrator (usa lentes), refletor (usa espelhos) e catadióptrico (combina lentes e espelhos). O dobsoniano é um tipo popular de refletor."
+  },
+  {
+    "question": "O que importa mais em um telescópio: a abertura ou o aumento?",
+    "expected_source": "07_telescopios.txt",
+    "expected_answer": "A abertura, ou seja, o diâmetro da lente ou espelho principal. Aumentos exagerados deixam a imagem escura e borrada."
+  },
+  {
+    "question": "Quando ocorre um eclipse solar?",
+    "expected_source": "08_eclipses.txt",
+    "expected_answer": "Quando a Lua passa entre o Sol e a Terra, bloqueando total ou parcialmente a luz solar. Ocorre durante a Lua Nova."
+  },
+  {
+    "question": "Por que a Lua fica avermelhada durante um eclipse lunar total?",
+    "expected_source": "08_eclipses.txt",
+    "expected_answer": "Porque a atmosfera terrestre desvia e filtra a luz solar, deixando passar principalmente os tons avermelhados. É a chamada Lua de Sangue."
+  },
+  {
+    "question": "Qual a diferença entre meteoro e meteorito?",
+    "expected_source": "09_chuvas_meteoros.txt",
+    "expected_answer": "O meteoro é o rastro luminoso produzido na atmosfera (a estrela cadente); o meteorito é o fragmento que resiste e chega ao solo."
+  },
+  {
+    "question": "O que causa as chuvas de meteoros?",
+    "expected_source": "09_chuvas_meteoros.txt",
+    "expected_answer": "Acontecem quando a Terra atravessa uma região do espaço repleta de detritos deixados por um cometa ao longo de sua órbita."
+  },
+  {
+    "question": "O que é magnitude aparente?",
+    "expected_source": "10_magnitude.txt",
+    "expected_answer": "É o brilho de um astro como visto da Terra, que depende tanto da luz que ele emite quanto de sua distância."
+  },
+  {
+    "question": "Na escala de magnitude, um número menor significa mais ou menos brilho?",
+    "expected_source": "10_magnitude.txt",
+    "expected_answer": "Quanto menor o número da magnitude, mais brilhante é o objeto. Astros muito brilhantes podem ter magnitude negativa."
+  },
+  {
+    "question": "O que é a declinação no sistema de coordenadas celestes?",
+    "expected_source": "11_coordenadas.txt",
+    "expected_answer": "É a coordenada análoga à latitude terrestre: mede o quanto um objeto está ao norte ou ao sul do equador celeste, em graus."
+  },
+  {
+    "question": "O que são estrelas circumpolares?",
+    "expected_source": "11_coordenadas.txt",
+    "expected_answer": "São estrelas próximas aos polos celestes que descrevem círculos no céu sem nascer nem se pôr."
+  },
+  {
+    "question": "O que se recomenda para quem está começando na astronomia amadora?",
+    "expected_source": "12_amadora.txt",
+    "expected_answer": "Começar observando a olho nu e com um binóculo antes de comprar um telescópio, aprendendo a reconhecer constelações e planetas."
+  },
+  {
+    "question": "Por que astrônomos usam lanternas de luz vermelha?",
+    "expected_source": "12_amadora.txt",
+    "expected_answer": "Porque a luz vermelha não prejudica a adaptação dos olhos ao escuro, que leva cerca de vinte a trinta minutos."
+  },
+  {
+    "question": "O que é poluição luminosa?",
+    "expected_source": "13_observacao_sp.txt",
+    "expected_answer": "É o brilho difuso causado pela luz artificial espalhada na atmosfera, que clareia o céu noturno e reduz a quantidade de estrelas visíveis."
+  },
+  {
+    "question": "O que é a escala de Bortle?",
+    "expected_source": "13_observacao_sp.txt",
+    "expected_answer": "É uma escala de 1 a 9 que classifica a qualidade do céu, da classe 1 (céu extremamente escuro) à classe 9 (céu de centros urbanos muito iluminados)."
+  },
+  {
+    "question": "O que Galileu descobriu ao apontar o telescópio para o céu?",
+    "expected_source": "14_historia.txt",
+    "expected_answer": "Descobriu as quatro maiores luas de Júpiter, observou as fases de Vênus, manchas no Sol e crateras na Lua, dando suporte ao modelo heliocêntrico."
+  },
+  {
+    "question": "Qual a diferença entre os modelos geocêntrico e heliocêntrico?",
+    "expected_source": "14_historia.txt",
+    "expected_answer": "No modelo geocêntrico a Terra está imóvel no centro; no heliocêntrico, proposto por Copérnico, a Terra e os planetas giram em torno do Sol."
+  },
+  {
+    "question": "O que é a teoria do Big Bang?",
+    "expected_source": "15_cosmologia.txt",
+    "expected_answer": "É a teoria de que o Universo começou há cerca de 13,8 bilhões de anos a partir de um estado quente e denso, expandindo-se e esfriando desde então."
+  },
+  {
+    "question": "O que é a radiação cósmica de fundo em micro-ondas?",
+    "expected_source": "15_cosmologia.txt",
+    "expected_answer": "É uma espécie de eco do Big Bang: uma radiação fraca que permeia todo o Universo, correspondente à luz liberada quando o cosmos se tornou transparente."
+  }
+]
