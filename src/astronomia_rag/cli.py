@@ -10,11 +10,12 @@ from .memory import ChatHistory
 
 
 BANNER = """
-╔══════════════════════════════════════════════════════════════╗
-║  🔭  Astronomia RAG — pergunte sobre o céu                   ║
-║                                                              ║
-║  Comandos: 'sair' para sair, 'limpar' para limpar histórico  ║
-╚══════════════════════════════════════════════════════════════╝
+===============================================================
+            Astronomia RAG — Pergunte sobre o céu                   
+                                                              
+  Comandos: 'sair' para sair, 'limpar' para limpar histórico
+
+===============================================================
 """
 
 
@@ -44,7 +45,7 @@ def main():
 
     while True:
         try:
-            question = input("❓ Você: ").strip()
+            question = input("Você: ").strip()
         except (EOFError, KeyboardInterrupt):
             print("\n\nAté logo!")
             break
