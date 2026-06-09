@@ -10,8 +10,17 @@
 <br>
 
 
-> Sistema de perguntas e respostas (FAQ) sobre Astronomia Observacional baseado em Retrieval-Augmented Generation (`RAG`), com busca vetorial em `FAISS`, LLM local (`Mistral-7B`) e pipeline de processamento construído com `LangChain`.
+Sistema de perguntas e respostas (FAQ) sobre Astronomia Observacional baseado em Retrieval-Augmented Generation (`RAG`), com busca vetorial em `FAISS`, LLM local (`Mistral-7B`) e pipeline de processamento construído com `LangChain`.
 
+<div>
+<img src="web-interface.png" alt="Interface Web" width="100%" align="center"/>
+</div>
+
+<br>
+
+<div>
+<img src="web-interface-demo.png" alt="Interface Web Demo" width="100%" align="center"/>
+</div>
 
 ---
 
@@ -45,18 +54,36 @@ astronomia-rag/
 ├── tests/
 │   └── test_retriever.py
 │
+├── app.py
+│
 ├── .gitignore
-├── cli_demo.svg
 ├── pyproject.toml
 └── README.md
 ```
+
+---
 
 ## Corpus
 Os 15 documentos do corpus foram redigidos como material educacional conciso, com auxílio de IA, a partir de conhecimento consolidado de Astronomia.
 
 
-### Como executar:
-#### Requisitos:
+---
+
+## Interface Web
+Interface de chat no navegador, para quem não tem familiaridade com terminal.
+Mostra as fontes de cada resposta e traz perguntas-exemplo para começar.
+Abre em http://localhost:8000 (requer o Ollama rodando e o índice já criado).
+
+```bash
+pip install chainlit
+
+chainlit run app.py -w
+```
+
+---
+
+## Como executar:
+### Requisitos:
 - Python 3.10+
 - Ollama
 
