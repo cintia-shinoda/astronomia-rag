@@ -10,40 +10,72 @@
 <br>
 
 
-
 > Sistema de perguntas e respostas (FAQ) sobre Astronomia Observacional baseado em Retrieval-Augmented Generation (`RAG`), com busca vetorial em `FAISS`, LLM local (`Mistral-7B`) e pipeline de processamento construído com `LangChain`.
 
 
 ---
+
 
 ## Estrutura do Repositório
 
 ```bash
 astronomia-rag/
 ├── data/
-│   ├── corpus/
+│   └── corpus/
+│
 ├── docs/
+│
 ├── evals/
+│   ├── eval_results.json
+│   ├── golden_set.json
+│   ├── preencher_notas.py
+│   └── run_evals.py
+│
 ├── notebooks/
-├── src/
+│
+├── src/astronomia_rag/
+│   ├── __init__.py
+│   ├── chain.py
+│   ├── cli.py
+│   ├── config.py
+│   ├── indexer.py
+│   ├── memory.py
+│   └── retriever.py
+│
 ├── tests/
+│   └── test_retriever.py
+│
 ├── .gitignore
+├── cli_demo.svg
+├── pyproject.toml
 └── README.md
 ```
 
 ## Corpus
+Os 15 documentos do corpus foram redigidos como material educacional conciso, com auxílio de IA, a partir de conhecimento consolidado de Astronomia.
 
 
-Rodar a CLI:
+### Como executar:
+#### Requisitos:
+- Python 3.10+
+- Ollama
+
+1. Clone o repositório e instale as dependências:
 ```bash
-python -m astronomia_rag.cli
+git clone https://github.com/cintia-shinoda/astronomia-rag.git
+
+cd astronomia-rag
+
+pip install -e ".[dev]"
 ```
 
-<!-- - Domínio: Astronomia observacional
-- Embeddings: `sentence-transformers/all-MiniLM-L6-v2`
-- Vector store: FAISS
-- LLM: Mistral-7B-Instruct Q4_K_M via Ollama
-- Framework: LangChain (bônus)
-- Memória: Histórico de conversa (bônus): `ConversationBufferMemory`
-- Interface: CLI + Jupyter notebook de demo
-- Idioma do corpus: Português -->
+2. Download do modelo via Ollama:
+```bash
+ollama pull mistral
+```
+
+3. Rodar o pipeline de RAG via CLI:
+```bash
+python -m astronomia_rag.indexer
+python -m astronomia_rag.cli
+```
