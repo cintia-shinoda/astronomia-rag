@@ -9,7 +9,7 @@
 
 <br>
 
-[Relatório Final](https://raw.githubusercontent.com/cintia-shinoda/astronomia-rag/main/Trabalho-Final.pdf)
+[Relatório Final](https://raw.githubusercontent.com/cintia-shinoda/astronomia-rag/main/Relatorio-Final.pdf)
 
 Sistema de perguntas e respostas (FAQ) sobre Astronomia Observacional baseado em Retrieval-Augmented Generation (`RAG`), com busca vetorial em `FAISS`, LLM local (`Mistral-7B`) e pipeline de processamento construído com `LangChain`.
 
